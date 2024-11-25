@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "450503883750",
+    "project_id": "shepower-df497",
+    "storage_bucket": "shepower-df497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450503883750:android:3184c2de4fa0edba373427",
+        "android_client_info": {
+          "package_name": "com.example.empower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450503883750-bgv4896o5gfe79eos9c737abmp3pivjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empower",
+            "certificate_hash": "650b9cfa02ae7948055a84e72a4f33318737fd3f"
+          }
+        },
+        {
+          "client_id": "450503883750-brk5vsqiapf867j7ho2698ies8avf6of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empower",
+            "certificate_hash": "bd93205f5499e1a71a43baa18e78744adb6bb945"
+          }
+        },
+        {
+          "client_id": "450503883750-f93jjqi9a0870kvqtfmimb5q4mqc6jhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empower",
+            "certificate_hash": "696e74eba5671ce1c6e1d646c84dcd03b06ab036"
+          }
+        },
+        {
+          "client_id": "450503883750-hkgr9qrfho8bqqlerg413k0utck86kja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empower",
+            "certificate_hash": "8399fba035c713c606fb20680043673d593fdae8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIAItooqr1WYbbNYucnyveCR73nm2iak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450503883750:android:308cf45b5b748981373427",
+        "android_client_info": {
+          "package_name": "com.example.shepower1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIAItooqr1WYbbNYucnyveCR73nm2iak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450503883750:android:2abf6e7f9f6547c2373427",
+        "android_client_info": {
+          "package_name": "com.shepower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450503883750-8s2t39n1bgr9hlltli3q6dggds29grjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shepower",
+            "certificate_hash": "650b9cfa02ae7948055a84e72a4f33318737fd3f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIAItooqr1WYbbNYucnyveCR73nm2iak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
